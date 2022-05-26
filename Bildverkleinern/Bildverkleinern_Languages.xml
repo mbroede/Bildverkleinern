@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Bildverkleinern>
+
+  <Languages>
+    <Deutsch>de</Deutsch>
+    <English>en</English>
+  </Languages>
+
+  <!-- System -->
+
+  <ErrorboxTitle>
+    <de>Fehler</de>
+    <en>Error</en>
+  </ErrorboxTitle>
+  
+  <FolderBrowserCaption>
+    <de>Bitte wählen Sie ein Verzeichnis aus:</de>
+    <en>Please select a directory:</en>
+  </FolderBrowserCaption>
+  
+  <NewFilenamePraefix>
+    <de>kleiner_</de>
+    <en>smaller_</en>
+  </NewFilenamePraefix>
+    
+  <!-- Formular "Main" -->
+  
+  <MainCmnuMainClose>
+    <de>Programm beenden</de>
+    <en>Close program</en>
+  </MainCmnuMainClose>
+  
+  <MainCmnuMainConfig>
+    <de>Konfiguration</de>
+    <en>Configuration</en>
+  </MainCmnuMainConfig>
+  
+  <!-- Formular "Config" -->
+  
+  <CnfFormTitle>
+    <de>Konfiguration - Bildverkleinern</de>
+    <en>Configuration - Bildverkleinern</en>
+  </CnfFormTitle>
+  
+  <CnfDropFrameSize>
+    <de>Durchmesser des Fadenkreuzes (Pixel):</de>
+    <en>Diameter of the crosslines frame (pixel):</en>
+  </CnfDropFrameSize>
+  
+  <CnfDragDropInfo>
+    <de>(Um ein Bild zu verkleinern ziehen Sie es per Drag &amp;&amp; Drop auf das Fadenkreuz.)</de>
+    <en>(To zoom out an image put it via\ndrag &amp;&amp; drop onto the crosshairs.)</en>
+  </CnfDragDropInfo>
+  
+  <CnfDestinationDirectory>
+    <de>Zielverzeichnis:</de>
+    <en>Destination directory:</en>
+  </CnfDestinationDirectory>
+  
+  <CnfOverwriteExistingFile>
+    <de>Eine vorhandene Datei überschreiben</de>
+    <en>Overwrite existing file</en>
+  </CnfOverwriteExistingFile>
+  
+  <CnfGroupboxNewSizeCaption>
+    <de>Neue Bildgröße (Pixel)</de>
+    <en>New image size (pixel)</en>
+  </CnfGroupboxNewSizeCaption>
+  
+  <CnfNewSizeOptionRatio>
+    <de>Einpassen</de>
+    <en>Fit</en>
+  </CnfNewSizeOptionRatio>
+  
+  <CnfNewSizeOptionExact>
+    <de>Exakt</de>
+    <en>Exact</en>
+  </CnfNewSizeOptionExact>
+
+  <CnfNewSizeWidthHeight>
+    <de>Breite/Höhe</de>
+    <en>Width/Height</en>
+  </CnfNewSizeWidthHeight>
+
+  <CnfNewSizeWidth>
+    <de>Breite</de>
+    <en>Width</en>
+  </CnfNewSizeWidth>
+
+  <CnfNewSizeHeight>
+    <de>Höhe</de>
+    <en>Height</en>
+  </CnfNewSizeHeight>
+
+  <CnfNewSizeFitInfo>
+    <de>(Das Bild wird in das Viereck eingepaßt, wobei das Seitenverhältnis des Originals erhalten bleibt.)</de>
+    <en>(The image is fitted into the square. The aspect ratio of the original image is preserved.)</en>
+  </CnfNewSizeFitInfo>
+
+  <CnfNewSizeExactInfo>
+    <de>(Das Bild erhält genau die angegebene Größe. Das Seitenverhältnis des Originals wird ignoriert.)</de>
+    <en>(The picture gets exactly the size specified. The aspect ratio of the original image is ignored.</en>
+  </CnfNewSizeExactInfo>
+
+  <CnfJpegCompressionPercent>
+    <de>Prozent:</de>
+    <en>Percent:</en>
+  </CnfJpegCompressionPercent>
+
+  <CnfLanguage>
+    <de>Sprache:</de>
+    <en>Language:</en>
+  </CnfLanguage>
+
+  <CnfNewSizeInfo>
+    <de>Ein kleineres Bild wird nicht vergrößert.</de>
+    <en>A smaller picture will not be enlarged.</en>
+  </CnfNewSizeInfo>
+
+  <CnfAbort>
+    <de>Abbrechen</de>
+    <en>Cancel    </en>
+  </CnfAbort>
+
+  <!-- Formular "OK" -->
+
+  <OkDone>
+    <de>Befehl ausgeführt!</de>
+    <en>Done!</en>
+  </OkDone>
+
+  <!-- Boxen -->
+
+  <ErrorBoxCaption>
+    <de>Fehler</de>
+    <en>Error</en>
+  </ErrorBoxCaption>
+
+  <!-- Error handling -->
+
+  <ProcessErrorEx>
+    <de>Beim Verkleinern des Bildes ist ein Fehler aufgetreten.\n{0}\nBitte prüfen Sie das Format der Datei.</de>
+    <en>In processing an error has occured.\n{0}\nPlease check the file format.</en>
+  </ProcessErrorEx>
+
+  <CnvDestinationDirectoryNotFount>
+    <de>Zielverzeichnis {0} nicht gefunden.</de>
+    <en>Destination directory {0} not found.</en>
+  </CnvDestinationDirectoryNotFount>
+
+  <CnvFileAlreadyExists>
+    <de>Zieldatei {0} existiert bereits.</de>
+    <en>Destination file {0} already exists.</en>
+  </CnvFileAlreadyExists>
+
+  <CnvOriImageFileNotFount>
+    <de>Bilddatei {0} nicht gefunden.</de>
+    <en>Image file {0} not found.</en>
+  </CnvOriImageFileNotFount>
+
+  <CnvUnknownImageFormat>
+    <de>Bilddatei {0} enthält ein unbekanntes Dateiformat.</de>
+    <en>Unknown file format found in {0}.</en>
+  </CnvUnknownImageFormat>
+
+</Bildverkleinern>
